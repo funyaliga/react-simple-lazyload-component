@@ -1,2 +1,2 @@
 
-[demo](http://rem.moe/work/fortune/rect-line-clamp/build/)
+[demo](http://rem.moe/react/react-simple-lazyload-component/build/)
